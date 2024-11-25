@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-import Enum.Categoria;
+// import Enum.Categoria;
 
 
 public class Quarto {

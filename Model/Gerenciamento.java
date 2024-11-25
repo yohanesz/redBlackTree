@@ -1,13 +1,14 @@
 
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import Enum.Categoria;
-import View.template;
-import View.view;
+// import Enum.Categoria;
+// import View.template;
+// import View.view;
 
 public class Gerenciamento {
 
